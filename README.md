@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Athiya-Ateeja
+- 👋 Hi, I’m @Athiya
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning DataStructure and Alogorithm 
 - 💞️ I’m looking to collaborate on Product Based Company
