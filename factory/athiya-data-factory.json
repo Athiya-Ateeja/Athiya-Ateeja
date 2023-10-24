@@ -1,0 +1,9 @@
+{
+	"name": "athiya-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f17432d1-3fd9-4fd6-b2d5-c9292c5231f9",
+		"tenantId": "a7720531-7944-4467-b1a5-77664df9b2c2"
+	}
+}
